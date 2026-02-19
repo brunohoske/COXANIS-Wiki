@@ -1,5 +1,7 @@
 # Guia do Jogador — Sistema de Economia
 
+Credits: Criado por Bhoske(github: brunohoske)
+
 Bem-vindo ao servidor! Este guia explica tudo que você precisa saber sobre o sistema de economia: seu saldo, as lojas de baú, negócios, empregos e dívidas.
 
 ---
