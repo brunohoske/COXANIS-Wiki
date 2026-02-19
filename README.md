@@ -16,6 +16,14 @@ Tudo sobre o sistema econômico do servidor: saldo, pagamentos, lojas de baú, n
 |---|---|
 | [Guia do Jogador — Economia](economia/GUIA_JOGADORES.md) | Como usar o sistema de economia: saldo, pagamentos, lojas, negócios e empregos |
 
+### 💳 Pagamentos PIX (BRPayments)
+
+Compre itens, kits e benefícios diretamente no jogo usando PIX — sem sair do Minecraft.
+
+| Guia | Descrição |
+|---|---|
+| [Guia do Jogador — Pagamentos PIX](pagamentos/GUIA_JOGADORES.md) | Como comprar na loja in-game, gerar o QR Code PIX e receber seus itens automaticamente |
+
 ---
 
 <!-- Futuros módulos podem ser adicionados aqui seguindo o mesmo padrão:
