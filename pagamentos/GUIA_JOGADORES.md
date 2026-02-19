@@ -24,13 +24,13 @@ Bem-vindo ao guia de pagamentos do servidor! O sistema **BRPayments** permite qu
 Use qualquer um dos comandos abaixo para abrir o menu da loja:
 
 ```
-/shop
+/loja
 ```
 
 Aliases (todos fazem a mesma coisa):
 
 ```
-/loja
+/shop
 /comprar
 /pix
 ```
