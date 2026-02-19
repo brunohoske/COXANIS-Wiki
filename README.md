@@ -18,7 +18,7 @@ Tudo sobre o sistema econômico do servidor: saldo, pagamentos, lojas de baú, n
 |---|---|
 | [Guia do Jogador — Economia](economia/GUIA_JOGADORES.md) | Como usar o sistema de economia: saldo, pagamentos, lojas, negócios e empregos |
 
-### 💳 Pagamentos PIX (BRPayments)
+### 💳 Pagamentos PIX
 
 Compre itens, kits e benefícios diretamente no jogo usando PIX — sem sair do Minecraft.
 
