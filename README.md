@@ -42,4 +42,4 @@ Descrição breve.
 
 ### *Wiki mantida pela staff do Coxinha City / COXANIS.*
 #### Staff: Bhoske, GodFetus, Hellzone
-#### Agradecimentos especiais: gguimaraes(maraiaemaiarisa), d4vizin, mylium
+#### Agradecimentos especiais: gguuimaraes(maraiaemaiarisa), d4vizin, mylium
