@@ -2,7 +2,7 @@
 
 ©️**Credits: Criado por Bhoske (github: brunohoske)**
 
-Bem-vindo ao guia de pagamentos do servidor! O sistema **BRPayments** permite que você compre itens, kits e benefícios diretamente no jogo usando **PIX** — sem sair do Minecraft. O pagamento é processado pelo Mercado Pago e a entrega é automática.
+Bem-vindo ao guia de pagamentos do servidor! O sistema de PIX permite que você compre itens, kits e benefícios diretamente no jogo usando **PIX** — sem sair do Minecraft. O pagamento é processado pelo Mercado Pago e a entrega é automática.
 
 ---
 
