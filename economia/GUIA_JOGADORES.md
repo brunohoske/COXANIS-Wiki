@@ -1,6 +1,6 @@
 # Guia do Jogador — Sistema de Economia
 
-**Credits: Criado por Bhoske (github: brunohoske)**
+©️**Credits: Criado por Bhoske (github: brunohoske)**
 
 Bem-vindo ao servidor! Este guia explica tudo que você precisa saber sobre o sistema de economia: seu saldo, as lojas de baú, negócios, empregos e dívidas.
 
@@ -60,9 +60,9 @@ As lojas são criadas com um **comando** que entrega uma placa já configurada n
 | **Botão direito** na placa | Executa a transação (compra ou venda) |
 | **Shift + botão direito** na placa | Exibe informações da loja sem realizar nenhuma transação |
 
-❗⚠️
-**IMPORTANTE❗❗❗❗** 
-**SEMPRE VERIFIQUE A LOJA COM SHIFT + BOTÃO DIREITO PARA NÃO FAZER COMPRAS INDEVIDAS E SEREM ENGANADOS. NÃO IREMOS DAR SUPORTE POR ERRO DE COMPRAS POR NÃO VERIFICAR.**
+### ❗⚠️
+## **IMPORTANTE❗❗❗❗** 
+- ##**SEMPRE VERIFIQUE A LOJA COM SHIFT + BOTÃO DIREITO PARA NÃO FAZER COMPRAS INDEVIDAS E SEREM ENGANADOS. NÃO IREMOS DAR SUPORTE POR ERRO DE COMPRAS POR NÃO VERIFICAR.**
 
 ---
 
