@@ -4,6 +4,8 @@ Bem-vindo à wiki oficial do servidor **Coxinha City**!
 
 Aqui você encontra guias completos sobre tudo que o servidor tem a oferecer. Use o índice abaixo para navegar pelos tópicos.
 
+###### Wiki ainda em desenvolvimento!!!
+
 ---
 
 ## 📚 Índice
