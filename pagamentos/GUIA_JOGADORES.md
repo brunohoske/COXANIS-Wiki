@@ -109,7 +109,7 @@ Quando o pedido é gerado com sucesso, um **mapa com o QR Code PIX** aparece na 
 
 ### Prazo para pagamento
 
-Você tem **30 minutos** para efetuar o pagamento após gerar o QR Code. Após esse prazo, o pedido expira automaticamente.
+Você tem **15 minutos** para efetuar o pagamento após gerar o QR Code. Após esse prazo, o pedido expira automaticamente.
 
 > O sistema verifica o status do pagamento a cada **60 segundos** automaticamente — você não precisa fazer nada após pagar.
 
@@ -136,7 +136,7 @@ Tudo é automático — não é necessário abrir ticket nem contatar a staff.
 
 ## Pedido expirado
 
-Se o tempo de **30 minutos** passar sem que o pagamento seja realizado, o pedido expirará automaticamente. Você será notificado com:
+Se o tempo de **15 minutos** passar sem que o pagamento seja realizado, o pedido expirará automaticamente. Você será notificado com:
 
 - Um som de bloco quebrando
 - Título na tela:
@@ -180,7 +180,7 @@ R: O sistema verifica o pagamento a cada 60 segundos. Aguarde até 2 minutos. Se
 ---
 
 **P: Posso cancelar um pedido?**
-R: Não há como cancelar manualmente. O pedido expira automaticamente após 30 minutos. Se já pagou e quer reembolso, entre em contato com a staff.
+R: Não há como cancelar manualmente. O pedido expira automaticamente após um periodo. Se já pagou e quer reembolso, entre em contato com a staff.
 
 ---
 
