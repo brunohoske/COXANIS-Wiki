@@ -32,9 +32,8 @@ Lista dos mods. (Quase) Todos. Com tempo vamos ajustando o que faltar
 
 | Guia | Descrição |
 |---|---|
-| [Guia do Jogador — Economia](modlist/MODLIST_COXANIS.md) | Como usar o sistema de economia: saldo, pagamentos, lojas, negócios e empregos |
+| [Guia do Jogador —  Lista de Mods](modlist/MODLIST_COXANIS.md) | Lista de mods  de Coxanis |
 
-### 💳 Pagamentos PIX
 
 ---
 
