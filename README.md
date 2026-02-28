@@ -26,6 +26,16 @@ Compre itens, kits e benefícios diretamente no jogo usando PIX — sem sair do 
 |---|---|
 | [Guia do Jogador — Pagamentos PIX](pagamentos/GUIA_JOGADORES.md) | Como comprar na loja in-game, gerar o QR Code PIX e receber seus itens automaticamente |
 
+### MODLIST COXANIST 
+
+Lista dos mods. (Quase) Todos. Com tempo vamos ajustando o que faltar
+
+| Guia | Descrição |
+|---|---|
+| [Guia do Jogador — Economia](modlist/MODLIST_COXANIS.md) | Como usar o sistema de economia: saldo, pagamentos, lojas, negócios e empregos |
+
+### 💳 Pagamentos PIX
+
 ---
 
 <!-- Futuros módulos podem ser adicionados aqui seguindo o mesmo padrão:
