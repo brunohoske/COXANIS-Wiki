@@ -9,7 +9,6 @@
 - Bosses of Mass Destruction [Página oficial](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction)
 - Marium's Soulslike Weaponry [Página oficial](https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry)
 - L_Ender's Cataclysm [Página oficial](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)
-- Bosse's Rises [Página oficial](https://www.curseforge.com/minecraft/mc-mods/bossesrise)
 
 ## Industriais
 - Create [Página oficial](https://www.curseforge.com/minecraft/mc-mods/create)
